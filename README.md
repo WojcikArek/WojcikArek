@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arek</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3>A passionate Frontend Developer from Poland</h3>
 
 - 🌱 I’m currently learning **React,js**
 - 🌱 Hobby in **Ruby and Rails** 
