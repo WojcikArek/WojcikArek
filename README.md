@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arek</h1>
-<h3>A passionate Frontend Developer from Poland</h3>
-
-- 🌱 I’m currently learning **React,js**
-- 🌱 Hobby in **Ruby and Rails** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
